@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá eu sou o Vagner
+- ⌨️ Desenvolvedor Python e javaScript.
+- 🎓 Formado em Ciência e tecnologia.
 
-<!--
-**vagnersnk/vagnersnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  🚀 Áreas de atuação
+-   📊 Estástitica.
+-   📈 Gestão Comercial.
+-   🛍️ Análise de dados.
+-   🌐 Desenvovimento web com django e react.
 
-Here are some ideas to get you started:
+##  💼 Habilidades
+- Linguagens de programação: Python,Javascript e Sql
+- Frameworks: Django, React, Electron, Nodejs.
+- Ferramentas: Git, Github, VsCode, Pycharm, MySql Workbench, Google Sheets.
+- Inglês: Intermediário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
